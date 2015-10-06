@@ -36,4 +36,3 @@ Requirements: Java, Ant (to build project)
 ## Bugs, Special Info
 - Must be connected to internet
 - When submitting your own question, you cannot use apostrophes (') in any of the questions or answers.
-
